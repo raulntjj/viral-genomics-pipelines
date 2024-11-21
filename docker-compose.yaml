@@ -1,0 +1,20 @@
+services:
+  bioinformatics:
+    build:
+      context: .
+    container_name: bioinformatics_pipeline
+    stdin_open: true
+    tty: true
+    volumes:
+      - ./:/var/www/
+    environment:
+      - TZ=Etc/UTC
+    working_dir: /var/www/
+    deploy:
+      resources:
+        limits:
+          memory: 4g    # Limite máximo de memória
+          cpus: '4.0'   # Limite de CPUs
+        reservations:
+          memory: 4g    # Reserva mínima de memória
+          cpus: '4.0'   # Reserva mínima de CPUs

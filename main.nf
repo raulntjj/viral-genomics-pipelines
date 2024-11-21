@@ -2,8 +2,14 @@
 
 nextflow.enable.dsl=2
 
+params.input = "data/"  // Diretório onde os arquivos FASTA estão localizados
+params.output = "results"  // Diretório de saída para os resultados
+
 process align_sequences {
     tag "Alignment"
+
+    memory '3.5 GB'  // Limite de 4 GB de RAM
+    cpus 4         // Uso de 4 threads/CPUs
 
     input:
     path fasta
@@ -21,6 +27,9 @@ process align_sequences {
 
 process build_phylo_tree {
     tag "Phylogenetic Tree"
+
+    memory '3.5 GB'  // Limite de 4 GB de RAM
+    cpus 4         // Uso de 4 threads/CPUs
 
     input:
     path aligned

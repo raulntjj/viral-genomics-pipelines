@@ -1,8 +1,19 @@
+build:
+	- docker compose up -d
+
+kill:
+	- docker stop bioinformatics_pipeline
+	- docker rm bioinformatics_pipeline
+	- docker system prune -af --volumes
+
 run:
-	- nextflow run main.nf
+	- docker exec -it bioinformatics_pipeline nextflow run main.nf
+
+bash:
+	- docker exec -it bioinformatics_pipeline bash
 
 get-genomes:
-	- esearch -db nucleotide -query "SARS-CoV-2 complete genome" | efetch -format fasta > reference.fasta
+	- docker exec -it bioinformatics_pipeline bash -c "mkdir -p data && cd data && esearch -db nucleotide -query 'SARS-CoV-2 complete genome' | efetch -format fasta > sequences.fasta"
 
 view:
-	- figtree results/RAxML_bestTree.bestTree
+	- docker exec -it bioinformatics_pipeline figtree results/RAxML_bestTree.bestTree
