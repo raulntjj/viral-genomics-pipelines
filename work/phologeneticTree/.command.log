@@ -1,0 +1,271 @@
+
+RAxML can't, parse the alignment file as phylip file 
+it will now try to parse it as FASTA file
+
+IMPORTANT WARNING: Alignment column 22125 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 22126 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 22127 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 22128 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 22129 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 22130 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 22131 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 22132 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 22174 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 22292 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 22293 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 22295 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 30526 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 30527 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 30528 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 30529 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 30530 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 30531 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 30532 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 30533 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 30534 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 30535 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 30536 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 30537 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 30538 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 30539 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 30540 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 30541 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 30542 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 30543 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 30544 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 30545 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 30546 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 30547 contains only undetermined values which will be treated as missing data
+IMPORTANT WARNING: Alignment column 30548 contains only undetermined values which will be treated as missing data
+
+
+IMPORTANT WARNING: Sequences PQ602975.1 and PQ602969.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ602967.1 and PQ602955.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ602950.1 and PQ602949.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ602923.1 and PQ602922.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ602882.1 and PQ602880.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ602815.1 and PQ602798.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ602815.1 and PQ602789.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ602806.1 and PQ602784.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ602806.1 and PQ602749.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ602781.1 and PQ602767.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ594175.1 and PQ594101.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ594121.1 and PQ594120.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ594061.1 and PQ594060.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ593811.1 and PQ593726.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ589522.1 and PQ589393.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences OR539153.1 and OR539146.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences OR539094.1 and OR538958.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences OR539022.1 and OR538998.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences OR539002.1 and OR538999.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences OR538985.1 and OR538981.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences OR538978.1 and OR538977.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences OR538962.1 and OR538955.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences OR538922.1 and OR538919.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ281400.1 and PQ281372.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ281399.1 and PQ281398.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ281395.1 and PQ281366.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ281395.1 and PQ281347.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ281389.1 and PQ281376.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ281385.1 and PQ281383.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ281385.1 and PQ281350.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ281381.1 and PQ281367.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ281381.1 and PQ281361.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ281381.1 and PQ281351.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ281336.1 and PQ281335.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ281336.1 and PQ281334.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ281336.1 and PQ281333.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ281336.1 and PQ281332.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ281336.1 and PQ281331.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ281336.1 and PQ281330.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ281336.1 and PQ281329.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ281336.1 and PQ281328.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ281336.1 and PQ281327.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ085575.1 and PQ085318.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ085442.1 and PQ085356.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ085442.1 and PQ085350.1 are exactly identical
+
+
+IMPORTANT WARNING: Sequences PQ085442.1 and PQ085329.1 are exactly identical
+
+IMPORTANT WARNING
+Found 46 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+
+IMPORTANT WARNING
+Found 35 columns that contain only undetermined values which will be treated as missing data.
+Normally these columns should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates and undetermined columns removed is printed to file aligned_sequences.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+Alignment has 35 completely undetermined sites that will be automatically removed from the input data
+
+
+This is the RAxML Master Pthread
+
+This is RAxML Worker Pthread Number: 2
+
+This is RAxML Worker Pthread Number: 1
+
+This is RAxML Worker Pthread Number: 3
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 6514 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 3.72%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heterogeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 6514
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC-PTHREADS -T 4 -s aligned_sequences.fasta -n bestTree -m GTRGAMMA -p 12345 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.299 0.183 0.196 0.322 
+
+Inference[0]: Time 2020.321989 GAMMA-based likelihood -111299.977867, best rearrangement setting 25
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -111299.094905 tree written to file /tmp/nxf.gDumLvMe9A/RAxML_result.bestTree
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -111299.094905 .... 
+
+Final GAMMA-based Score of best tree -111299.089288
+
+Program execution info written to /tmp/nxf.gDumLvMe9A/RAxML_info.bestTree
+Best-scoring ML tree written to: /tmp/nxf.gDumLvMe9A/RAxML_bestTree.bestTree
+
+Overall execution time: 2420.785655 secs or 0.672440 hours or 0.028018 days
+
