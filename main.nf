@@ -2,11 +2,14 @@
 
 nextflow.enable.dsl=2
 
-params.input = "data/"  // Diretório onde os arquivos FASTA estão localizados
-params.output = "results"  // Diretório de saída para os resultados
+params.input = 'data'       // Pasta de entrada com o arquivo sequences.fasta
+params.output = 'results'   // Pasta de saída para os resultados
 
 process align_sequences {
     tag "Alignment"
+    cpus 4               // Número de CPUs disponíveis para o processos
+    memory '8 GB'        // Memória alocada para o processo
+    maxForks 8           // Paralelismo no pipeline
 
     memory '3.5 GB'  // Limite de 4 GB de RAM
     cpus 4         // Uso de 4 threads/CPUs
@@ -21,12 +24,15 @@ process align_sequences {
 
     script:
     """
-    mafft --auto ${fasta} > aligned_sequences.fasta
+    mafft --thread ${task.cpus} --auto ${fasta} > aligned_sequences.fasta
     """
 }
 
 process build_phylo_tree {
     tag "Phylogenetic Tree"
+    cpus 4               // Número de CPUs disponíveis para o processo
+    memory '8 GB'       // Memória alocada para o processo
+    maxForks 8           // Paralelismo no pipeline
 
     memory '3.5 GB'  // Limite de 4 GB de RAM
     cpus 4         // Uso de 4 threads/CPUs
@@ -41,7 +47,7 @@ process build_phylo_tree {
 
     script:
     """
-    raxmlHPC -s ${aligned} -n bestTree -m GTRGAMMA -p 12345
+    raxmlHPC-PTHREADS -T ${task.cpus} -s ${aligned} -n bestTree -m GTRGAMMA -p 12345
     """
 }
 

@@ -10,3 +10,7 @@ nextflow.log*
 !results/phylogenetics/
 
 .nextflow*
+
+amostra1
+amostra2
+amostra3
