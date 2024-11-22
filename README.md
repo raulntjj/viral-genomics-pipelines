@@ -1,5 +1,5 @@
 
-# Bioinformatics Pipeline Project
+# Viral Genomics Pipelines
 
 Este repositório contém um pipeline de bioinformática projetado para o processamento de dados genômicos de SARS-CoV-2. Ele permite a coleta de genomas, alinhamento de sequências, construção de árvores filogenéticas, e visualização de resultados utilizando **Nextflow**, Docker, e ferramentas de bioinformática como **MAFFT**, **RAxML**, e **FigTree**.
 
