@@ -16,8 +16,8 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 ## **Configuração**
 1. Clone este repositório em sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/bioinformatics-pipeline.git
-   cd bioinformatics-pipeline
+   git clone https://github.com/raulntjj/viral-genomics-pipelines
+   cd viral-genomics-pipelines
    ```
 
 2. Inicie os containers Docker para configurar o ambiente:
